@@ -4,11 +4,11 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/swiper-bundle.css";
 import Shape from "@/public/images/shape/brand-shape.png";
-import One from "@/public/images/brand/brand-image1.png";
-import Two from "@/public/images/brand/brand-image2.png";
-import Three from "@/public/images/brand/brand-image3.png";
-import Four from "@/public/images/brand/brand-image4.png";
-import Five from "@/public/images/brand/brand-image5.png";
+import One from "@/public/images/brand/website.gif";
+import Two from "@/public/images/brand/android.gif";
+import Three from "@/public/images/brand/ios1.png";
+import Four from "@/public/images/brand/watch.png";
+import Five from "@/public/images/brand/tv.png";
 
 const Brand = () => {
   return (
