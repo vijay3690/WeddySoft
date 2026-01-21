@@ -74,7 +74,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Four} alt="Image" priority />
+                    <Image  src="/images/about/IT.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Solution</span>
@@ -97,7 +97,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Five} alt="Image" priority />
+                    <Image src="/images/about/Integration-Platform.png" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Technology</span>
@@ -120,7 +120,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Six} alt="Image" priority />
+                    <Image src="/images/about/web1.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Solution</span>
@@ -143,7 +143,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Seven} alt="Image" priority />
+                    <Image src="/images/about/Network.jpg" height={1800} width={1470}  alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Security</span>
@@ -166,7 +166,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Four} alt="Image" priority />
+                    <Image  src="/images/about/IT.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Solution</span>
@@ -189,7 +189,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Five} alt="Image" priority />
+                    <Image src="/images/about/Integration-Platform.png" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Technology</span>
@@ -212,7 +212,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Six} alt="Image" priority />
+                    <Image src="/images/about/web1.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Solution</span>
@@ -235,7 +235,7 @@ const CaseThree = () => {
               <div>
                 <div className="project-three__item">
                   <div className="image case__image">
-                    <Image src={Seven} alt="Image" priority />
+                    <Image src="/images/about/Network.jpg" height={1800} width={1470}  alt="Image" priority />
                   </div>
                   <div className="case__content">
                     <span className="primary-color sm-font">Security</span>

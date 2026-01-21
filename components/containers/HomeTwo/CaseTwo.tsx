@@ -112,7 +112,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Two} alt="Image" priority />
+                    <Image  src="/images/about/IT.jpg"  height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Solution</span>
@@ -132,7 +132,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Three} alt="Image" priority />
+                    <Image src="/images/about/web1.jpg"height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Technology</span>
@@ -152,7 +152,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Four} alt="Image" priority />
+                    <Image src="/images/about/Network.jpg" height={1800} width={1470}  alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Security</span>
@@ -172,7 +172,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Five} alt="Image" priority />
+                    <Image src="/images/about/Platform-Integration.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Technology</span>
@@ -192,7 +192,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Two} alt="Image" priority />
+                    <Image src="/images/about/IT.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Solution</span>
@@ -212,7 +212,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Three} alt="Image" priority />
+                    <Image src="/images/about/web1.jpg" height={1600} width={1370} alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Technology</span>
@@ -232,7 +232,7 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Four} alt="Image" priority />
+                    <Image src="/images/about/Network.jpg" height={1800} width={1470}  alt="Image" priority />
                   </div>
                   <div className="case-two__content">
                     <span>Security</span>
@@ -252,8 +252,8 @@ const CaseTwo = () => {
               <div className="swiper-slide">
                 <div className="case-two__item">
                   <div className="image case-two__image">
-                    <Image src={Five} alt="Image" priority />
-                  </div>
+                      <Image src="/images/about/casetwo1.jpg" height={1600} width={1370} alt="Image" priority />
+                    </div>
                   <div className="case-two__content">
                     <span>Technology</span>
                     <h4>
