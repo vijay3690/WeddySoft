@@ -1,9 +1,9 @@
 import Image from "next/image";
 import One from "@/public/images/icon/section-title.png";
 import Two from "@/public/images/process/process-arry.png";
-import Three from "@/public/images/process/process-image1.png";
-import Four from "@/public/images/process/process-image2.png";
-import Five from "@/public/images/process/process-image3.png";
+import Three from "@/public/images/process/Idea.jpg";
+import Four from "@/public/images/process/design.png";
+import Five from "@/public/images/process/software deploy.webp";
 
 const Process = () => {
   return (
