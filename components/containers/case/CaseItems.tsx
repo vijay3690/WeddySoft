@@ -36,7 +36,7 @@ const CaseItems = () => {
           <div className="col-xl-4 col-lg-6 col-md-6">
             <div className="case__item">
               <div className="image case__image">
-                <Image src="/images/about/IT.png" height={1600} width={1370} alt="Image" priority />
+                <Image src="/images/about/IT.jpg" height={1600} width={1370} alt="Image" priority />
               </div>
               <div className="case__content">
                 <span className="primary-color sm-font">Technology</span>
@@ -78,7 +78,7 @@ const CaseItems = () => {
           <div className="col-xl-4 col-lg-6 col-md-6">
             <div className="case__item">
               <div className="image case__image">
-                <Image src="/images/about/Network.jpg" height={1800} width={1470} alt="Image" priority />
+                <Image src="/images/about/Network.jpg" height={1000} width={800} alt="Image" priority />
               </div>
               <div className="case__content">
                 <span className="primary-color sm-font">Security</span>
