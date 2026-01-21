@@ -9,8 +9,8 @@ import Two from "@/public/images/shape/brand-three-line2.png";
 import Three from "@/public/images/shape/brand-three-shape2.png";
 import Four from "@/public/images/brand/watch.png";
 import Five from "@/public/images/brand/tv.png";
-import Six from "@/public/images/brand/website.gif";
-import Seven from "@/public/images/brand/android.gif";
+import Six from "@/public/images/brand/website.png";
+import Seven from "@/public/images/brand/android.png";
 import Eight from "@/public/images/brand/ios1.png";
 
 
