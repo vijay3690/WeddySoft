@@ -5,6 +5,8 @@ import One from "@/public/images/blog/virtual.png";
 import Two from "@/public/images/blog/retail.jpg";
 import Three from "@/public/images/blog/server.jpg";
 
+
+
 const Blog = () => {
   return (
     <section className="blog-area pt-120 pb-120" id="blog-section">
