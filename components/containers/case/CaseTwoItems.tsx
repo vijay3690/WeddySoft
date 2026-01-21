@@ -33,7 +33,7 @@ const CaseTwoItems = () => {
           <div className="col-xl-4 col-lg-6 col-md-6">
             <div className="case-two__item">
               <div className="image case-two__image">
-                <Image src="/images/about/IT.png" height={1600} width={1370} alt="Image" priority />
+                <Image src="/images/about/IT.jpg" height={1600} width={1370} alt="Image" priority />
               </div>
               <div className="case-two__content">
                 <span>Technology</span>
